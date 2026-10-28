@@ -1,23 +1,17 @@
 # Hi, I'm Bhumika Rawate (Bhumi)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer+%E2%80%A2+Building+Production+AI;Multi-Agent+Systems+%26+RAG+Architect;Author+of+AI+Command+Center+%E2%80%94+an+Open-Source+LLM+Gateway;Publishing+Open+Source+on+npm+%2B+PyPI;Shipping+AI+from+Prototype+%E2%86%92+Production" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=AI+Engineer+%E2%80%A2+Building+Production+AI;Multi-Agent+Systems+%26+RAG+Architect;Shipping+AI+from+Prototype+%E2%86%92+Production" alt="Typing SVG" /></a>
 
 <br/>
 <p>
-<a href="https://www.linkedin.com/in/adityasarade/" target="_blank">
+<a href="https://www.linkedin.com/in/bhumikarawate1904/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:aditya.sarade2003@gmail.com">
+<a href="mailto:bhumikarawate19@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/adityasarade">
+<a href="https://github.com/bhumikaa-01">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://pypi.org/user/adityasarade/">
-<img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
-</a>
-<a href="https://www.npmjs.com/package/ai-command-center">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </a>
 </p>
 
