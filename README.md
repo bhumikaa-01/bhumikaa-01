@@ -1,4 +1,4 @@
-# Hi, I'm Bhumika Rawate 
+# Hi, I'm Bhumika Rawate (Bhumi)
 
 ### AI Engineer | Data Scientist | MSc Data Science @ University of Southampton 🇬🇧
 
