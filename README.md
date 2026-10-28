@@ -16,9 +16,12 @@ I'm passionate about building useful AI applications, exploring emerging technol
 Exploring advanced data science concepts and strengthening my expertise in analytical modeling, machine learning, and intelligent systems.
 
 **B.Tech in Artificial Intelligence and Data Science** — AISSMS Institute of Information Technology, Pune, India  
-*CGPA: 8.46/10*
 
 Built a strong foundation in programming, machine learning, data analytics, and artificial intelligence.
+
+**Diploma in Computer Engineering** — PCET's Pimpri Chinchwad Polytechnic, Pune, India  
+
+Built a strong foundation in computer programming, database management, networking, and core computer engineering principles.
 
 ---
 
